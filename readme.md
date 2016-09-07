@@ -2,7 +2,6 @@
 
 ## To Run Project
 $ npm install
-$ bower install
 
 $ npm start : run project on your local environment
 $ npm test : run tests using Karma
